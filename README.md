@@ -8,6 +8,7 @@
 ![Image 8](deck/8.png)
 ![Image 9](deck/9.png)
 
+*[Click here for the PDF version](https://drive.google.com/file/d/1e8N_9sWbUhGI75OCOA01MNY5VetFCRxQ/view?usp=sharing)*
 
 1. **ONE-SENTENCE IDEA:**
     Circa transforms waste heat from decentralized computing infrastructure into valuable resources for agriculture, brewing/distilling, and heating, creating a sustainable circular economy.
