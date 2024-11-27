@@ -21,7 +21,7 @@
   <text x="175" y="270" text-anchor="middle" class="subtitle">Computational Processing</text>
   
   <rect x="70" y="320" width="210" height="60" rx="5" class="sub-node"/>
-  <text x="175" y="340" text-anchor="middle" class="subtitle">Heat Capture & Management</text>
+  <text x="175" y="340" text-anchor="middle" class="subtitle">Heat Capture || Management</text>
   
   <!-- Koji Cultivation -->
   <rect x="400" y="50" width="250" height="200" rx="10" class="main-node"/>
