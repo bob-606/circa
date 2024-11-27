@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <style>
+    .node { fill: #E0E0E0; stroke: #333; stroke-width: 2; }
+    .text { font-family: Arial, sans-serif; font-size: 14px; }
+    .subtitle { font-size: 12px; fill: #666; }
+    .arrow { stroke: #666; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- ASIC Mining -->
+  <rect x="50" y="150" width="150" height="100" rx="10" class="node"/>
+  <text x="125" y="200" text-anchor="middle" class="text">ASIC Mining</text>
+  <text x="125" y="220" text-anchor="middle" class="subtitle">Heat Generation</text>
+  
+  <!-- Mycelium Cultivation -->
+  <rect x="300" y="50" width="150" height="100" rx="10" class="node"/>
+  <text x="375" y="100" text-anchor="middle" class="text">Mycelium</text>
+  <text x="375" y="120" text-anchor="middle" class="subtitle">Cultivation</text>
+  
+  <!-- Substrate Preparation -->
+  <rect x="300" y="250" width="150" height="100" rx="10" class="node"/>
+  <text x="375" y="300" text-anchor="middle" class="text">Substrate</text>
+  <text x="375" y="320" text-anchor="middle" class="subtitle">Preparation</text>
+  
+  <!-- Fruiting -->
+  <rect x="550" y="150" width="150" height="100" rx="10" class="node"/>
+  <text x="625" y="200" text-anchor="middle" class="text">Fruiting</text>
+  
+  <!-- Harvesting -->
+  <rect x="800" y="150" width="150" height="100" rx="10" class="node"/>
+  <text x="875" y="200" text-anchor="middle" class="text">Harvesting</text>
+  
+  <!-- Processing -->
+  <rect x="1050" y="150" width="150" height="100" rx="10" class="node"/>
+  <text x="1125" y="200" text-anchor="middle" class="text">Processing</text>
+  <text x="1125" y="220" text-anchor="middle" class="subtitle">Final Products</text>
+  
+  <!-- Arrows -->
+  <line x1="200" y1="200" x2="300" y2="100" class="arrow"/>
+  <line x1="375" y1="150" x2="375" y2="250" class="arrow"/>
+  <line x1="450" y1="200" x2="550" y2="200" class="arrow"/>
+  <line x1="700" y1="200" x2="800" y2="200" class="arrow"/>
+  <line x1="950" y1="200" x2="1050" y2="200" class="arrow"/>
+</svg>

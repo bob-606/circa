@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+  <style>
+    .main-node { fill: #E0E0E0; stroke: #333; stroke-width: 2; }
+    .sub-node { fill: #F0F0F0; stroke: #666; stroke-width: 1; }
+    .text { font-family: Arial, sans-serif; font-size: 14px; }
+    .subtitle { font-size: 12px; fill: #666; }
+  </style>
+  
+  <!-- Main FunGuy Node -->
+  <rect x="50" y="50" width="900" height="500" rx="10" fill="#D0E8D0" stroke="#333" stroke-width="3"/>
+  <text x="500" y="90" text-anchor="middle" class="text" font-size="18">FunGuy: Fungiculture & Koji Ecosystem</text>
+  
+  <!-- Koji Cultivation Detailed -->
+  <rect x="100" y="150" width="350" height="350" rx="10" class="main-node"/>
+  <text x="275" y="180" text-anchor="middle" class="text">Koji Cultivation</text>
+  
+  <rect x="130" y="220" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="275" y="250" text-anchor="middle" class="subtitle">Substrate Inoculation</text>
+  
+  <rect x="130" y="300" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="275" y="330" text-anchor="middle" class="subtitle">Aspergillus oryzae Growth</text>
+  
+  <rect x="130" y="380" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="275" y="410" text-anchor="middle" class="subtitle">Enzyme Development</text>
+  
+  <!-- Mushroom Cultivation -->
+  <rect x="550" y="150" width="350" height="350" rx="10" class="main-node"/>
+  <text x="725" y="180" text-anchor="middle" class="text">Mushroom Cultivation</text>
+  
+  <rect x="580" y="220" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="725" y="250" text-anchor="middle" class="subtitle">Mycelium Propagation</text>
+  
+  <rect x="580" y="300" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="725" y="330" text-anchor="middle" class="subtitle">Substrate Preparation</text>
+  
+  <rect x="580" y="380" width="290" height="60" rx="5" class="sub-node"/>
+  <text x="725" y="410" text-anchor="middle" class="subtitle">Fruiting Conditions</text>
+</svg>
