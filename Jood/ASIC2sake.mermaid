@@ -1,19 +1,16 @@
 graph TD
     A[Start] --> B[Fermentation]
-    B --> C[Temperature Range for Fermentation]
-    C --> D[15°C to 30°C (59°F to 86°F)]
-    D --> E[Use ASIC Waste Heat for Temperature Control]
-    E --> F[Preheating Water or Mash]
-    F --> G[Distillation]
-    G --> H[Distillation Temperature Range]
-    H --> I[78°C to 85°C (172°F to 185°F)]
-    I --> J[Use ASIC Waste Heat for Preheating]
-    J --> K[Low-Heat Distillation]
-    K --> L[Temperature Range: 60°C to 75°C (140°F to 167°F)]
-    L --> M[Use ASIC Waste Heat to Maintain Temperature]
-    M --> N[Energy Efficiency Improvements]
-    N --> O[Cogeneration for Power and Heating]
-    O --> P[End]
+    B --> C[Temperature Range for Fermentation (15C to 30C)]
+    C --> D[Use ASIC Waste Heat for Temperature Control]
+    D --> E[Preheating Water or Mash]
+    E --> F[Distillation]
+    F --> G[Distillation Temperature Range (78C to 85C)]
+    G --> H[Use ASIC Waste Heat for Preheating]
+    H --> I[Low-Heat Distillation (60C to 75C)]
+    I --> J[Use ASIC Waste Heat to Maintain Temperature]
+    J --> K[Energy Efficiency Improvements]
+    K --> L[Cogeneration for Power and Heating]
+    L --> M[End]
 
     style A fill:#f9f,stroke:#333,stroke-width:4px
-    style P fill:#ff9,stroke:#333,stroke-width:4px
+    style M fill:#ff9,stroke:#333,stroke-width:4px
