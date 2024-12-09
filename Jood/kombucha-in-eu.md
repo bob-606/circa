@@ -29,4 +29,3 @@
 - **Estonia** and **Poland** stand out as the best options for low-cost production, access to the EU, and growing kombucha markets.
 - **Germany** is ideal if you want to target the largest kombucha market in Europe.
 - **Spain** and **Portugal** are attractive for Mediterranean export opportunities.
-
