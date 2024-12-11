@@ -60,3 +60,6 @@ This guide will walk you through the process of making jerky and fruit rolls usi
 
 ## Conclusion
 Using ASICs heat to make jerky and fruit rolls is an innovative way to repurpose technology for food preservation. Follow these steps to create delicious and healthy snacks at home.
+
+## Reference
+- [Fruitiki](https://fruitiki.ee/)
