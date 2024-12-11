@@ -18,3 +18,7 @@
 - Keep the garlic in a dark, humid environment to facilitate the fermentation process.
 
 By utilizing the heat generated from ASIC miners, you can efficiently produce black garlic while also making use of the excess heat from your mining operations.
+
+### Reference
+- [Must Umami](https://mustumami.com/)
+- [Must Küüslauk OÜ (11504985)](https://ariregister.rik.ee/est/company/11504985/Insenerteaduste-Instituut-O%C3%9C?)
