@@ -5,6 +5,7 @@ It is a comfort food.
 Korean style fried chicken is known for its crispy exterior and juicy interior. It is often double-fried and coated in a sweet and spicy sauce.
 
 ### Ingredients
+```
 - Chicken wings or drumsticks
 - Cornstarch
 - Flour
@@ -18,6 +19,7 @@ Korean style fried chicken is known for its crispy exterior and juicy interior. 
 - Sesame oil
 - Green onions
 - Sesame seeds
+```
 
 ### Instructions
 1. Season the chicken with salt, pepper, garlic powder, and ginger.
