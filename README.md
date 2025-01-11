@@ -11,7 +11,9 @@
 *[Click here for the PDF version](https://shorturl.at/LzxlN)*
 
 ## 1. **ONE-SENTENCE IDEA:**
+```
     Circa transforms waste heat from decentralized computing infrastructure into valuable resources for agriculture, brewing/distilling, and heating, creating a sustainable circular economy.
+```
 
 ## 2. **DETAILED DESCRIPTION:**
     Circa is an innovative Web3 ecosystem that addresses the significant energy inefficiencies in decentralized physical infrastructure networks (DePINs) by repurposing waste heat into productive applications. The project leverages high-performance computing hardware like ASICs, GPUs, and enterprise-grade SSDs, which generate substantial thermal energy during operations, and redirects this heat into sustainable and economically valuable processes.
