@@ -29,3 +29,4 @@ Leveraging waste heat from Application-Specific Integrated Circuits (ASICs) can 
 - **Monitoring and Control:** Implement systems to monitor and regulate temperatures, maintaining product quality and safety.
 
 By integrating these applications, the 'Jood' project can effectively utilize waste heat from ASICs to support beverage production processes, enhancing sustainability and reducing energy consumption.
+
